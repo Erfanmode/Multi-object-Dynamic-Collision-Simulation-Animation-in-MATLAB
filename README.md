@@ -4,3 +4,4 @@
 - Integration & Simulation Algorithms in MATLAB
 - Stable and Efficient Collision Detection
 - Arbitrary Number and Initial States for the Objects
+- Animation Display and Recording 
